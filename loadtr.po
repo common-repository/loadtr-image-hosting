@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Loadtr.com 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-12 19:08+0800\n"
+"PO-Revision-Date: 2009-08-01 18:19+0200\n"
+"Last-Translator: Hakan Demiray <hakan@dmry.net>\n"
+"Language-Team: Hakan Demiray <hakan@dmry.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: loadtr.php:54
+msgid "Loadtr Image Upload"
+msgstr "Loadtr Resim Yükleme"
+
+#: loadtr.php:78
+msgid "Loadtr Photo"
+msgstr "Loadtr Resim"
+
+#: loadtr.php:97
+msgid "Image upload error. Temp folder is not writable"
+msgstr "Resim yükleme hatası. Temp klasörü yazılabilir değil"
+
+#: loadtr.php:98
+msgid "Description is empty"
+msgstr "Açıklama alanı boş"
+
+#: loadtr.php:99
+msgid "Image not select"
+msgstr "Resim seçilmemiş"
+
+#: loadtr.php:100
+msgid "Image is corrupt"
+msgstr "Resim hatalı"
+
+#: loadtr.php:101
+msgid "Invalid extension"
+msgstr "Geçersiz resim formatı"
+
+#: loadtr.php:102
+msgid "Size is empty"
+msgstr "Resim boyutu seçilmemiş"
+
+#: loadtr.php:103
+msgid "URL is empty"
+msgstr "URL girilmemiş"
+
+#: loadtr.php:104
+msgid "Unknown error"
+msgstr "Bilinmeyen hata"
+
+#: loadtr.php:105
+msgid "Loadtr.com connection error"
+msgstr "Loadtr.com bağlantı hatası"
+
+#: loadtr.php:137
+msgid "Loadtr.com Image Upload"
+msgstr "Loadtr.com Resim Yükleme"
+
+#: loadtr.php:166
+msgid "Type keywords/description about your image..."
+msgstr "Resim hakkında açıklama giriniz..."
+
+#: loadtr.php:170
+msgid "Language code not selected"
+msgstr "Dil kodu seçilmemiş"
+
+#: loadtr.php:171
+msgid "Uploading, please wait..."
+msgstr "Yükleniyor, lütfen bekleyiniz..."
+
+#: loadtr.php:174
+msgid "Image"
+msgstr "Resim"
+
+#: loadtr.php:176
+msgid "Language"
+msgstr "Dil"
+
+#: loadtr.php:177
+msgid "Türkçe"
+msgstr "Türkçe"
+
+#: loadtr.php:178
+msgid "English"
+msgstr "English"
+
+#: loadtr.php:181
+msgid "Description"
+msgstr "Açıklama"
+
+#: loadtr.php:183
+msgid "Select Size"
+msgstr "Boyut Seçin"
+
+#: loadtr.php:186
+msgid "Thumbnail"
+msgstr "En Küçük"
+
+#: loadtr.php:187
+msgid "Small"
+msgstr "Küçük"
+
+#: loadtr.php:188
+msgid "Medium"
+msgstr "Orta"
+
+#: loadtr.php:189
+msgid "Large"
+msgstr "Büyük"
+
+#: loadtr.php:190
+msgid "Original Size"
+msgstr "Orijinal Ebat"
+
+#: loadtr.php:194
+msgid "UPLOAD"
+msgstr "YÜKLE"
+
+#: loadtr.php:195
+msgid "<strong>Attention</strong> Adult image (+13) and illegal image upload is Disallow"
+msgstr "<strong>Dikkat</strong> Cinsellik içeren (+13) resimler ve yasadışı <b>resim yüklemek</b> kesinlikle yasaktır"
+
+#: loadtr.php:203
+msgid "Send to Post"
+msgstr "Yazıya Dahil Et"
+
